@@ -8,4 +8,4 @@ git clone https://github.com/ashinasok/Calculator.git
 SCREENSHOT :
 
 
-![ScreenShot](https://github.com/ashinasok/Calculator.git/v2.jpg)
+![ScreenShot](https://postimg.org/image/6jcxxc6ih/)

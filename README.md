@@ -9,4 +9,4 @@ SCREENSHOT :
 
 
 ![ScreenShot](https://s4.postimg.org/3p9sjw4cd/image.png)
-![image](https://s4.postimg.org/3p9sjw4cd/image.png)
+

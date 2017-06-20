@@ -8,5 +8,5 @@ git clone https://github.com/ashinasok/Calculator.git
 SCREENSHOT :
 
 
-![ScreenShot](https://postimg.org/image/6jcxxc6ih/)
-![image](https://postimg.org/image/6jcxxc6ih/)
+![ScreenShot](https://s4.postimg.org/3p9sjw4cd/image.png)
+![image](https://s4.postimg.org/3p9sjw4cd/image.png)

@@ -8,5 +8,6 @@ git clone https://github.com/ashinasok/Calculator.git
 SCREENSHOT :
 
 
-![ScreenShot](https://s4.postimg.org/3p9sjw4cd/image.png)
+![alt text](https://github.com/ashinasok/Calculator/blob/master/v2.jpg)
+
 
